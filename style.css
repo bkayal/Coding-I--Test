@@ -1,0 +1,36 @@
+html {
+    background-color:black;
+}
+
+h1 {
+    color: chartreuse
+}
+
+ol {
+    color: teal;
+    font-size: 20px;
+}
+
+.png {
+    border-style: solid;
+    border-color: rgb(179, 26, 26);
+}
+
+.source {
+    font-family: 'Times New Roman', Times, serif;
+    color:white
+}
+
+li {
+    font-family:sans-serif;
+    color:turquoise
+}
+
+.milestone {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:turquoise
+}
+
+p {
+    color:lime
+}
