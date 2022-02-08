@@ -34,3 +34,11 @@ li {
 p {
     color:lime
 }
+
+table {
+    color:rgb(0, 60, 255);
+    margin-left: auto;
+    margin-right: auto;
+    border-color: aliceblue;
+    border-width: 30px;
+}
