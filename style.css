@@ -1,4 +1,4 @@
-html {
+body {
     background-color:black;
 }
 
@@ -45,4 +45,8 @@ table {
 
 .links{
     color:antiquewhite
+}
+
+footer {
+    color:darkgreen
 }
